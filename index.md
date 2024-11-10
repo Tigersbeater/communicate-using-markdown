@@ -33,4 +33,3 @@ a short, meaningful commit message
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
-var myVar = "Hello, world!";
